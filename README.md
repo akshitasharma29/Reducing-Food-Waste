@@ -1,5 +1,4 @@
-#  Food Waste Reduction Analysis 
-# using Machine Learning and Data Analysis 
+#  Food Waste Reduction Analysis using Machine Learning and Data Analysis 
 
 #IBM SKILLSBUILD INTERNSHIP PROJECT ; 
 This project focuses on reducing food waste by leveraging data analysis and machine learning to predict potential food wastage in households based on various factors. By identifying patterns and important factors contributing to waste, this project aims to promote sustainable consumption and efficient food management practices.
